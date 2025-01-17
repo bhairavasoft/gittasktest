@@ -1,4 +1,4 @@
 def test():
-    print("Meeetoo New");
+    print("New Code");
 
 test()
