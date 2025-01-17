@@ -1,4 +1,4 @@
 def test():
-    print("New Code1");
+    print("New Code2");
 
 test()
