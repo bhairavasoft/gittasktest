@@ -27,19 +27,4 @@
 		"index.js",
 		"index.d.ts",
 		"binary-extensions.json"
-	],
-	"keywords": [
-		"binary",
-		"extensions",
-		"extension",
-		"file",
-		"json",
-		"list",
-		"array"
-	],
-	"devDependencies": {
-		"ava": "^6.1.2",
-		"tsd": "^0.31.0",
-		"xo": "^0.58.0"
-	}
-}
+
