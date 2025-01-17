@@ -1,11 +1,12 @@
-const number1 = 2.25;
-const number2 = -4;
-const number3 = 'hello';
+public class MultiplyTwoNumbers {
 
-const result1 = Math.sqrt(number1);
-const result2 = Math.sqrt(number2);
-const result3 = Math.sqrt(number3);
+    public static void main(String[] args) {
 
-console.log(`The square root of ${number1} is ${result1}`);
-console.log(`The square root of ${number2} is ${result2}`);
-console.log(`The square root of ${number3} is ${result3}`);
+        float first = 1.5f;
+        float second = 2.0f;
+
+        float product = first * second;
+
+        System.out.println("The product is: " + product);
+    }
+}
