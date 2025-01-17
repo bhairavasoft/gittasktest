@@ -1,1 +1,4 @@
-#test
+def test():
+    print("Meee");
+
+test()
