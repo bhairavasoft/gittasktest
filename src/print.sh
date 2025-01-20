@@ -3,10 +3,8 @@
 # Check if the required commands are available
 command -v echo >/dev/null 2>&1 || { echo "Error: 'echo' command not found."; exit 1; }
 command -v expr >/dev/null 2>&1 || { echo "Error: 'expr' command not found."; exit 1; }
-
 # Initialize the counter
 i=1
-
 # Loop to print numbers 1 to 100
 while [ $i -le 100 ]; do
     # Check if $i is a valid number
@@ -26,5 +24,4 @@ while [ $i -le 100 ]; do
         exit 1
     fi
 done
-
-echo "Script executed successfully!"
+echo "Script executed successfully!!"
