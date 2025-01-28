@@ -1,3 +1,6 @@
+# TASK: Create a line plot with x values ranging from 0 to 10 and y values as the square of x.
+# Customize the plot by adding a title, labels for both axes, and a grid. 
+
 #!/bin/bash
 
 # Check if the required commands are available
