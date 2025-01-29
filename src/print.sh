@@ -1,4 +1,4 @@
-# TASK: Create a line plot with x values ranging from 0 to 10 and y values as the square of x.
+# TASK: Print numbers 1 to 99
 # Customize the plot by adding a title, labels for both axes, and a grid. 
 
 #!/bin/bash
