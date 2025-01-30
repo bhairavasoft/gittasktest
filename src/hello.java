@@ -33,3 +33,4 @@ class MainTest {
         assertDoesNotThrow(() -> Main.printMessage());
     }
 }
+
