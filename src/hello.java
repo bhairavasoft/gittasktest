@@ -8,7 +8,6 @@ public class Main {
             System.err.println("An error occurred: " + e.getMessage());
         }
     }
-
     public static String printMessage() {
         String message = "Hello, World!!!";
         System.out.println(message);
