@@ -6,7 +6,7 @@ public class Main {
             printMessage();
         } catch (Exception e) {
             System.err.println("An error occurred: " + e.getMessage());
-        }
+        
     }
     public static String printMessage() {
         String message = "Hello, World!!!";
