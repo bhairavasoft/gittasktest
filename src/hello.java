@@ -14,9 +14,6 @@ public class Main {
         return message;  // Returning the message for unit testing
     }
 }
-
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
-
-
 
