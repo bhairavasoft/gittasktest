@@ -8,12 +8,6 @@ public class Main {
             System.err.println("An error occurred: " + e.getMessage());
         }
     }
-    
-    public static String printMessage() {
-        String message = "Hello, World!!!";
-        System.out.println(message);
-        return message;  // Returning the message for unit testing
-    }
-}
+
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
