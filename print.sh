@@ -27,4 +27,4 @@ while [ $i -le 99 ]; do
         exit 1
     fi
 done
-echo "Script executed successfully!"
+echo "Script executed successfully!!"
